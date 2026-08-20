@@ -1,0 +1,8 @@
+int main()
+{
+    // declaration
+    int a = 10;
+
+    /* another comment */
+    a = a + 5;
+}
